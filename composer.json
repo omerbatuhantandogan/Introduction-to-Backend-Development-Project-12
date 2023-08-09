@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    },
+    "config": {
+
+        "platform-check": false
+    } 
+}
